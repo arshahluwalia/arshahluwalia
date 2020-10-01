@@ -6,3 +6,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:arsh.ahluwalia@hotmail.com)](mailto:arsh.ahluwalia@hotmail.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arshahluwalia)
+
+![counter](https://[https://en355dtdmqu361n.m.pipedream.net].m.pipedream.net)
