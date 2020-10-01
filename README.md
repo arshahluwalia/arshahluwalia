@@ -7,4 +7,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arshahluwalia)
 
-![counter](https://[https://en355dtdmqu361n.m.pipedream.net.m.pipedream.net)
+![counter](https://[https://en355dtdmqu361n.m.pipedream.net)
