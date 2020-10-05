@@ -1,4 +1,4 @@
-# Hi, I'm Arsh, a frontend developer!
+# Hi, I'm Arsh, a software developer!
 
 ### Want to chat? I'd love to!
 [![Website Badge](https://img.shields.io/badge/arshahluwalia.github.io-3d8ddf?style=for-the-badge&logo=Safari&logoColor=white&link=https://arshahluwalia.github.io/)](https://arshahluwalia.github.io/)
