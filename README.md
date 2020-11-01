@@ -5,6 +5,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/arshahluwalia-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshahluwalia/)](https://www.linkedin.com/in/arshahluwalia/)
 [![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:arsh.ahluwalia@hotmail.com)](mailto:arsh.ahluwalia@hotmail.com)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=arshahluwalia)
-
 ![counter](https://en355dtdmqu361n.m.pipedream.net)
